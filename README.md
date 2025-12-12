@@ -1,5 +1,8 @@
 # mcp-wisdom
 
+[![npm version](https://img.shields.io/npm/v/mcp-wisdom.svg)](https://www.npmjs.com/package/mcp-wisdom)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Philosophy-grounded thinking frameworks for Claude - an MCP server providing Stoic, Cognitive, Mindfulness, and Strategic wisdom tools.
 
 > *"Think better with 2,500 years of tested frameworks"*
@@ -115,6 +118,20 @@ Claude will use the appropriate wisdom tool to provide structured philosophical 
 ## Related
 
 - [wisdom-pack](https://github.com/aplaceforallmystuff/wisdom-pack) - Slash command version for Claude Code
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for a history of changes to this project.
+
+## Links
+
+- [npm package](https://www.npmjs.com/package/mcp-wisdom)
+- [GitHub repository](https://github.com/aplaceforallmystuff/mcp-wisdom)
+- [Report issues](https://github.com/aplaceforallmystuff/mcp-wisdom/issues)
 
 ## License
 

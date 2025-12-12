@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "type": "module",
   "bin": {
-    "mcp-wisdom": "./dist/index.js"
+    "mcp-wisdom": "dist/index.js"
   },
   "scripts": {
     "build": "tsc",
@@ -23,11 +23,14 @@
     "decision-making",
     "thinking-tools"
   ],
-  "author": "Jim Christian",
+  "author": {
+    "name": "Jim Christian",
+    "url": "https://jimchristian.net"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aplaceforallmystuff/mcp-wisdom.git"
+    "url": "git+https://github.com/aplaceforallmystuff/mcp-wisdom.git"
   },
   "homepage": "https://github.com/aplaceforallmystuff/mcp-wisdom#readme",
   "bugs": {
