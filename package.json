@@ -1,0 +1,51 @@
+{
+  "name": "mcp-wisdom",
+  "version": "1.0.0",
+  "description": "Philosophy-grounded thinking frameworks for Claude - MCP server providing Stoic, Cognitive, Mindfulness, and Strategic wisdom tools",
+  "main": "dist/index.js",
+  "type": "module",
+  "bin": {
+    "mcp-wisdom": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc && node dist/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "claude",
+    "philosophy",
+    "stoicism",
+    "wisdom",
+    "cognitive-bias",
+    "mindfulness",
+    "decision-making",
+    "thinking-tools"
+  ],
+  "author": "Jim Christian",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aplaceforallmystuff/mcp-wisdom.git"
+  },
+  "homepage": "https://github.com/aplaceforallmystuff/mcp-wisdom#readme",
+  "bugs": {
+    "url": "https://github.com/aplaceforallmystuff/mcp-wisdom/issues"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ]
+}
