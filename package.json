@@ -1,6 +1,6 @@
 {
   "name": "mcp-wisdom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Philosophy-grounded thinking frameworks for Claude - MCP server providing Stoic, Cognitive, Mindfulness, and Strategic wisdom tools",
   "main": "dist/index.js",
   "type": "module",
