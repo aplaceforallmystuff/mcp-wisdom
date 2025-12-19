@@ -2,6 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/mcp-wisdom.svg)](https://www.npmjs.com/package/mcp-wisdom)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![MCP](https://img.shields.io/badge/MCP-Compatible-blue)](https://modelcontextprotocol.io)
 
 Philosophy-grounded thinking frameworks for Claude - an MCP server providing Stoic, Cognitive, Mindfulness, and Strategic wisdom tools.
 
