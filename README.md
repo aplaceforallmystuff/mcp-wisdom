@@ -1,6 +1,7 @@
 # mcp-wisdom
 
 [![npm version](https://img.shields.io/npm/v/mcp-wisdom.svg)](https://www.npmjs.com/package/mcp-wisdom)
+[![CI](https://github.com/aplaceforallmystuff/mcp-wisdom/actions/workflows/ci.yml/badge.svg)](https://github.com/aplaceforallmystuff/mcp-wisdom/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MCP](https://img.shields.io/badge/MCP-Compatible-blue)](https://modelcontextprotocol.io)
 
