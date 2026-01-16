@@ -5,7 +5,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MCP](https://img.shields.io/badge/MCP-Compatible-blue)](https://modelcontextprotocol.io)
 
-Philosophy-grounded thinking frameworks for Claude - an MCP server providing Stoic, Cognitive, Mindfulness, and Strategic wisdom tools.
+Philosophy-grounded thinking frameworks for Claude
+
+![Architecture](docs/images/architecture-diagram.png) - an MCP server providing Stoic, Cognitive, Mindfulness, and Strategic wisdom tools.
 
 > *"Think better with 2,500 years of tested frameworks"*
 
