@@ -123,10 +123,6 @@ Claude will use the appropriate wisdom tool to provide structured philosophical 
 
 - [wisdom-pack](https://github.com/aplaceforallmystuff/wisdom-pack) - Slash command version for Claude Code
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md) for a history of changes to this project.
