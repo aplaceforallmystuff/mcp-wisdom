@@ -48,3 +48,7 @@ None required. No external APIs or configuration needed.
 ## Constraints
 
 - No external APIs; all wisdom content and quotes are embedded in source files
+
+## Pre-Publish
+
+Run `/publish-mcp` before any `npm publish` — mandatory pipeline that handles tests, secret scan, sanitize, docs check, version bump, tag, push, and publish in strict order. Do not run `npm publish` directly.
